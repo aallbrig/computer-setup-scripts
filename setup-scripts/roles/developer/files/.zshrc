@@ -93,8 +93,6 @@ alias egcf=edit-git-config
 
 alias j=jrnl
 alias g=git
-alias gh=hub
-alias h=gh
 alias c=clear
 alias k=kubectl
 alias tf=terraform
