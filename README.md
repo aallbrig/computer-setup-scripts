@@ -1,3 +1,8 @@
+# Deprecated
+Now just using a dotfiles setup ([`aallbrig/dotfiles`](https://github.com/aallbrig/dotfiles)). KISS ansible scripting for local provisioning goodbye 😗.
+
+---
+
 ### Andrew Allbright's computer setup scripts
 Here are my setup scripts, written using `ansible`. These help me quickly configure whatever computer I'm on.
 
